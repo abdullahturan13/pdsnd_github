@@ -10,8 +10,5 @@ bikeshare.py
 ### Credits
 https://github.com/udacity/pdsnd_github/
 
-### Features
-New Features will be added
-
 ### Author 
 This is opensource project
